@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact **I am active scuba diver and airsoft player**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me via:</h3>
 <p align="left">
-<a href="https://dev.to/konradlipowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="konradlipowski" height="30" width="40" /></a>
+<a href="tel:691654659" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="konradlipowski" height="30" width="40" />Phone: +48 691654659</a>
 <a href="https://linkedin.com/in/konradlipowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konradlipowski" height="30" width="40" /></a>
 </p>
 
