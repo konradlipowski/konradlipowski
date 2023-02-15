@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React.js, GSAP, TypeScript**
 
-- 👨‍💻 All of my projects are available at [konradlipowski.pl](konradlipowski.pl)
+- 👨‍💻 All of my projects are available at [konradlipowski.pl](konradlipowski.studio)
 
-- 📝 I regularly write articles on [konradlipowski.pl/blog](konradlipowski.pl/blog)
+- 📝 I regularly write articles on [konradlipowski.pl/blog](konradlipowski.studio/blog)
 
-- 📫 How to reach me konradlipowski05@gmail.com or at [konradlipowski.pl/contact-me](konradlipowski.pl/contact-me)
+- 📫 How to reach me konradlipowski05@gmail.com or at [konradlipowski.pl/contact-me](konradlipowski.studio/contact-me)
 
-- 📄 Know about my experiences [konradlipowski.pl/about-me](konradlipowski.pl/about-me)
+- 📄 Know about my experiences [konradlipowski.pl/about-me](konradlipowski.studio/about-me)
 
 - ⚡ Fun fact **I am active scuba diver and airsoft player**
 
@@ -34,7 +34,7 @@ located_in: Bydgoszcz, Poland
 contact:
 [ 
 "konradlipowski05@gmail.com",
-"konradlipowski.pl/contact",
+"konradlipowski.studio/contact",
 "m.me/konrad.lipowski.988"
 ]
 current_job: Freelancer
