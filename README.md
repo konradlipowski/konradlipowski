@@ -4,7 +4,7 @@
 <h1 align="center">I'm Konrad Lipowski 👋</h1>
 <h3 align="center">A 18 years old passionate Front-end developer based in Bydgoszcz, Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konradlipowski&label=Profile%20views&color=0e75b6&style=flat" alt="konradlipowski" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=konradlipowski&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="konradlipowski" /> </p>
 
 
 - 🔭 I’m currently working on [Wizzee - electronic branding cards](wizzee.pl)
@@ -32,16 +32,22 @@ name: Konrad Lipowski
 age: 18
 located_in: Bydgoszcz, Poland
 contact:
-[
+[ 
 "konradlipowski05@gmail.com",
 "konradlipowski.pl/contact",
 "m.me/konrad.lipowski.988"
 ]
 current_job: Freelancer
-education:
+education2:
 [
-"Zespół Szkół Elektronicznych in Bydgoszcz (now in 4th grade)",
+"Zespół Szkół Elektronicznych in Bydgoszcz",
+"2019 - moment",
+"Skrzetusko, Bydgoszcz",
+]
+education1:
 "Szkoła Podstawowa Towarzystwa Salezjańskiego w Bydgoszczy",
+"2010 - 2019",
+"Fordon, Bydgoszcz",
 ]
 fields_of_interests:
 [
