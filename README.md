@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React.js, GSAP, TypeScript**
 
-- 👨‍💻 All of my projects are available at [konradlipowski.pl](konradlipowski.studio)
+- 👨‍💻 All of my projects are available at [konradlipowski.studio](konradlipowski.studio)
 
-- 📝 I regularly write articles on [konradlipowski.pl/blog](konradlipowski.studio/blog)
+- 📝 I regularly write articles on [konradlipowski.studio/blog](konradlipowski.studio/blog)
 
 - 📫 How to reach me konradlipowski05@gmail.com or at [konradlipowski.pl/contact-me](konradlipowski.studio/contact-me)
 
-- 📄 Know about my experiences [konradlipowski.pl/about-me](konradlipowski.studio/about-me)
+- 📄 Know about my experiences [konradlipowski.studio/about-me](konradlipowski.studio/about-me)
 
 - ⚡ Fun fact **I am active scuba diver and airsoft player**
 
