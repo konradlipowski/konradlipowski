@@ -7,17 +7,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=konradlipowski&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="konradlipowski" /> </p>
 
 
-- 🔭 I’m currently working on [Wizzee - electronic branding cards](https://wizzee.pl)
+- 🔭 I’m currently working on [Wizzee - electronic branding cards]
 
 - 🌱 I’m currently learning **React.js, GSAP, TypeScript**
 
 - 👨‍💻 All of my projects are available at [konradlipowski.studio](https://konradlipowski.studio)
 
-- 📝 I regularly write articles on [konradlipowski.studio/blog](https://konradlipowski.studio/blog)
+- 📝 I regularly write articles on **SOON**
+<!-- [konradlipowski.studio/blog](https://konradlipowski.studio/blog) -->
+- 📫 How to reach me konradlipowski05@gmail.com
 
-- 📫 How to reach me konradlipowski05@gmail.com or at [konradlipowski.studio/contact-me](https://konradlipowski.studio/contact-me)
-
-- 📄 Know about my experiences [konradlipowski.studio/about-me](https://konradlipowski.studio/about-me)
+- 📄 Know about my experiences **SOON**
+<!-- - [konradlipowski.studio/about-me](https://konradlipowski.studio/about-me) -->
 
 - ⚡ Fun fact **I am active scuba diver and airsoft player**
 
@@ -34,7 +35,6 @@ located_in: Bydgoszcz, Poland
 contact:
 [ 
 "konradlipowski05@gmail.com",
-"konradlipowski.studio/contact",
 "m.me/konrad.lipowski.988"
 ]
 current_job: Freelancer
